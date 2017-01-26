@@ -7,7 +7,6 @@ public class Bullet : MonoBehaviour {
     public float Speed = 5.0f;
 
     private Rigidbody2D rb;
-    private float dx = 0, dy = 0;
 
     private void Awake()
     {
@@ -16,7 +15,11 @@ public class Bullet : MonoBehaviour {
 
     private void OnEnable()
     {
-        Debug.Log("FLY!");
         rb.velocity = transform.up * Speed;
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        gameObject.SetActive(false);
     }
 }
