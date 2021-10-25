@@ -16,11 +16,10 @@ public class Tank : MonoBehaviour {
         projectile.SetActive(false);
     }
 
-	void Update ()
+    void Update ()
     {
         dx = Input.GetAxisRaw("Horizontal");
         dy = dx == 0.0f ? Input.GetAxisRaw("Vertical") : 0.0f;
-        
 
         if (dx != 0)
         {

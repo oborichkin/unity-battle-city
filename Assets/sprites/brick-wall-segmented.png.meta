@@ -1,55 +1,55 @@
 fileFormatVersion: 2
-guid: 29176871f9b58ab419ba10d42c7f6c96
+guid: 01a5e506a64e3c540b3944d1583b4fd2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 21300000
-    second: brick-wall_0
+      213: -3623735096483551675
+    second: brick-wall-segmented_0
   - first:
-      213: 21300002
-    second: brick-wall_1
+      213: 859608572104277864
+    second: brick-wall-segmented_1
   - first:
-      213: 21300004
-    second: brick-wall_2
+      213: 8935843677754533197
+    second: brick-wall-segmented_2
   - first:
-      213: 21300006
-    second: brick-wall_3
+      213: -1655630620802740107
+    second: brick-wall-segmented_3
   - first:
-      213: 21300008
-    second: brick-wall_4
+      213: -1270325840381455695
+    second: brick-wall-segmented_4
   - first:
-      213: 21300010
-    second: brick-wall_5
+      213: 2220540940232926004
+    second: brick-wall-segmented_5
   - first:
-      213: 21300012
-    second: brick-wall_6
+      213: 5286087145792086632
+    second: brick-wall-segmented_6
   - first:
-      213: 21300014
-    second: brick-wall_7
+      213: 9144963595592931504
+    second: brick-wall-segmented_7
   - first:
-      213: 21300016
-    second: brick-wall_8
+      213: -5392236748314399560
+    second: brick-wall-segmented_8
   - first:
-      213: 21300018
-    second: brick-wall_9
+      213: 7634899907644100746
+    second: brick-wall-segmented_9
   - first:
-      213: 21300020
-    second: brick-wall_10
+      213: -1656346111196786372
+    second: brick-wall-segmented_10
   - first:
-      213: 21300022
-    second: brick-wall_11
+      213: 1192552405464692630
+    second: brick-wall-segmented_11
   - first:
-      213: 21300024
-    second: brick-wall_12
+      213: -5958814555237906397
+    second: brick-wall-segmented_12
   - first:
-      213: 21300026
-    second: brick-wall_13
+      213: 7088228531757316772
+    second: brick-wall-segmented_13
   - first:
-      213: 21300028
-    second: brick-wall_14
+      213: -8458262723770976657
+    second: brick-wall-segmented_14
   - first:
-      213: 21300030
-    second: brick-wall_15
+      213: 1355923551697937509
+    second: brick-wall-segmented_15
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -83,13 +83,13 @@ TextureImporter:
     filterMode: 0
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 0
   alignment: 0
@@ -109,15 +109,15 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
+    textureCompression: 0
+    compressionQuality: 100
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
@@ -127,55 +127,19 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 2
-    textureCompression: 1
-    compressionQuality: 50
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 100
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 1
+    overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: brick-wall_0
+      name: brick-wall-segmented_0
       rect:
         serializedVersion: 2
         x: 0
@@ -189,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
+      spriteID: 5466bfd0128e5bdc0800000000000000
+      internalID: -3623735096483551675
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brick-wall_1
+      name: brick-wall-segmented_1
       rect:
         serializedVersion: 2
         x: 4
@@ -210,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
+      spriteID: 86ff7222171fdeb00800000000000000
+      internalID: 859608572104277864
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brick-wall_2
+      name: brick-wall-segmented_2
       rect:
         serializedVersion: 2
         x: 8
@@ -231,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
+      spriteID: d45aaf41b7e720c70800000000000000
+      internalID: 8935843677754533197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brick-wall_3
+      name: brick-wall-segmented_3
       rect:
         serializedVersion: 2
         x: 12
@@ -252,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
+      spriteID: 5701bc7e8b40609e0800000000000000
+      internalID: -1655630620802740107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brick-wall_4
+      name: brick-wall-segmented_4
       rect:
         serializedVersion: 2
         x: 0
@@ -273,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
+      spriteID: 1b2501fe065ee5ee0800000000000000
+      internalID: -1270325840381455695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brick-wall_5
+      name: brick-wall-segmented_5
       rect:
         serializedVersion: 2
         x: 4
@@ -294,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
+      spriteID: 433abcf5832f0de10800000000000000
+      internalID: 2220540940232926004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brick-wall_6
+      name: brick-wall-segmented_6
       rect:
         serializedVersion: 2
         x: 8
@@ -315,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
+      spriteID: 86222b09044fb5940800000000000000
+      internalID: 5286087145792086632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brick-wall_7
+      name: brick-wall-segmented_7
       rect:
         serializedVersion: 2
         x: 12
@@ -336,14 +300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
+      spriteID: 0b8123720ff69ee70800000000000000
+      internalID: 9144963595592931504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brick-wall_8
+      name: brick-wall-segmented_8
       rect:
         serializedVersion: 2
         x: 0
@@ -357,14 +321,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
+      spriteID: 8bca9e72f3dea25b0800000000000000
+      internalID: -5392236748314399560
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brick-wall_9
+      name: brick-wall-segmented_9
       rect:
         serializedVersion: 2
         x: 4
@@ -378,14 +342,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
+      spriteID: a801acab30d94f960800000000000000
+      internalID: 7634899907644100746
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brick-wall_10
+      name: brick-wall-segmented_10
       rect:
         serializedVersion: 2
         x: 8
@@ -399,14 +363,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
+      spriteID: c311401dcf97309e0800000000000000
+      internalID: -1656346111196786372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brick-wall_11
+      name: brick-wall-segmented_11
       rect:
         serializedVersion: 2
         x: 12
@@ -420,14 +384,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
+      spriteID: 697b2c7281ccc8010800000000000000
+      internalID: 1192552405464692630
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brick-wall_12
+      name: brick-wall-segmented_12
       rect:
         serializedVersion: 2
         x: 0
@@ -441,14 +405,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
+      spriteID: 3280e90bbb90e4da0800000000000000
+      internalID: -5958814555237906397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brick-wall_13
+      name: brick-wall-segmented_13
       rect:
         serializedVersion: 2
         x: 4
@@ -462,14 +426,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3305410000000000800000000000000
-      internalID: 21300026
+      spriteID: 4aafe2a6b427e5260800000000000000
+      internalID: 7088228531757316772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brick-wall_14
+      name: brick-wall-segmented_14
       rect:
         serializedVersion: 2
         x: 8
@@ -483,14 +447,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3305410000000000800000000000000
-      internalID: 21300028
+      spriteID: f66f3b4ddd63e9a80800000000000000
+      internalID: -8458262723770976657
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brick-wall_15
+      name: brick-wall-segmented_15
       rect:
         serializedVersion: 2
         x: 12
@@ -504,8 +468,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3305410000000000800000000000000
-      internalID: 21300030
+      spriteID: 564aa89494531d210800000000000000
+      internalID: 1355923551697937509
       vertices: []
       indices: 
       edges: []
